@@ -2,13 +2,11 @@
 Uses the following :
 
 ------
-<img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo.png" height=160>
+<img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo.png" width=160>
 
-![OpenWeather](https://upload.wikimedia.org/wikipedia/commons/f/f6/OpenWeather-Logo.jpg =160x)
-
-![Polybar](polybar_logo.png =160x)
-
-![neovim Plug](plug.png =160x)
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/OpenWeather-Logo.jpg" width=160>
+<img src="https://raw.githubusercontent.com/capktkirk/dotfiles/master/polybar_logo.png" width=160>
+<img src="https://raw.githubusercontent.com/capktkirk/dotfiles/master/plug.png" width=160>
 
 -------
 
