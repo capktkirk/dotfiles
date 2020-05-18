@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/ktkirk/school_files/SP20/314MATH/hw13-mlr01-capktkirk'
+let g:netrw_dirhist_9='/home/ktkirk/Desktop'
+let g:netrw_dirhist_8='/home/ktkirk/Android'
+let g:netrw_dirhist_7='/home/ktkirk/.config/polybar'
+let g:netrw_dirhist_6='/home/ktkirk/.config/i3'
+let g:netrw_dirhist_5='/usr/share/rofi/themes'
+let g:netrw_dirhist_4='/usr/share/rofi'
+let g:netrw_dirhist_3='/usr/share/rofi/themes'
+let g:netrw_dirhist_2='/usr/share/rofi'
+let g:netrw_dirhist_1='/home/ktkirk/school_files'
