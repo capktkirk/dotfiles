@@ -2,7 +2,7 @@
 Uses the following :
 
 ------
-<img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo.png">
+<img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo.png" height=160>
 
 ![OpenWeather](https://upload.wikimedia.org/wikipedia/commons/f/f6/OpenWeather-Logo.jpg =160x)
 
