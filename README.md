@@ -4,8 +4,11 @@ Uses the following :
 ------
 
 ![Neovim](https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo.png =160x)
+
 ![OpenWeather](https://upload.wikimedia.org/wikipedia/commons/f/f6/OpenWeather-Logo.jpg =160x)
+
 ![Polybar](polybar_logo.png =160x)
+
 ![neovim Plug](plug.png =160x)
 
 -------
