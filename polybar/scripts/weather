@@ -41,9 +41,8 @@ get_icon() {
     echo $icon
 }
 
-KEY="68c4d37b3c0fe3e6a7d596dd17f52b09"
-CITY="5336269"
-UNITS="Celsius"
+KEY=""
+CITY=""
 SYMBOL="°"
 
 API="https://api.openweathermap.org/data/2.5"
