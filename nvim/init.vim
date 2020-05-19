@@ -1,6 +1,7 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
+" Plugins : 
 call plug#begin('~/plugged')
 " NERDTree directory
 Plug 'scrooloose/nerdtree'
@@ -36,6 +37,9 @@ let g:python3_host_prog = '/usr/bin/python3.8'
 syntax on
 " For plug-ins to load correctly.
 filetype plugin indent on
+set path+=**
+
+set wildmenu
 " Turn off modelines
 set modelines=0
 " Automatically wrap text that extends beyond the screen length.
@@ -234,4 +238,5 @@ call NERDTreeHighlightFile('js', 'Red', 'none', '#ffa500', '#151515')
 call NERDTreeHighlightFile('php', 'Magenta', 'none', '#ff00ff', '#151515')
 
 
-" 
+" Commands :
+command! MakeTags !ctags -R .

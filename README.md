@@ -24,3 +24,6 @@ Changes you will need to make :
 
 * In Polybar there is a weather script in the scripts directory. You will need to sign up for an API key from OpenWeather and put it there.
 * monitors.xml should be put in the config file if you have multiple monitors. Set them up to your specifications or use arandr/xrandr to export your own profile.
+* The i3-gaps config file has a lot of specialized scripts for screenshots/volume increases/weather etc. These will need to be changed based on the software for sound/screenshots/whatever.
+
+These dot files were collected from multiple sources, sources linked in files where applicable.
