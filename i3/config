@@ -44,10 +44,10 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 #exec_always --no-startup-id xrdb -load ~/.Xresources
 
 # run once
-exec --no-startup-id compton -b
 # This sets the background, pick your path to the background you want do something else.
 exec --no-startup-id feh --bg-center $HOME/Pictures/background.png
-exec --no-startup-id xfsettingsd
+exec --no-startup-id $HOME/.screenlayout/default.sh
+# exec --no-startup-id xfsettingsd
 exec --no-startup-id discord
 
 # needed for super to launch rofi through ksuperkey, see ~/.xprofile

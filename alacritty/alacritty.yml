@@ -63,7 +63,7 @@ scrolling:
   multiplier: 3
 
   ## Automatically scroll to the bottom when new text is written.
-  auto_scroll: true
+  #auto_scroll: true
 
 # Font configuration (changes require restart)
 font:
