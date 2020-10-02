@@ -1,5 +1,5 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin:/home/ktkirk/dev/flutter/bin:/usr/local/go/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:$HOME/dev/flutter/bin:./go/bin/hover:/usr/local/go/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/ktkirk/.oh-my-zsh"
@@ -98,6 +98,8 @@ fi
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-alias zshconfig="vim ~/.zshrc"
+alias vim="nvim"
+alias vimdiff="nvim -d"
+alias zshconfig="nvim ~/.zshrc"
 alias oni2="${HOME}/.appImages/Onivim2-x86_64.AppImage"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
